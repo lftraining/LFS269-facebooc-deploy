@@ -3,6 +3,6 @@
   * flux/*        => Flux Deployment/Sync Manifests 
   * kustomize/*   => Application Deployment with Kustomize Overlays 
 
-App Repository is [hosted here](https://github.com/lfs269/facebooc). 
+App Repository is [hosted here](https://github.com/lftraining/LFS269-facebooc). 
 
 
